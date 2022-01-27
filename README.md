@@ -5,6 +5,7 @@
 
 #### ROTAS
 ### /client
+###### Criar novos clientes
 KEYS:
 ### -- name
 ### -- cpf
