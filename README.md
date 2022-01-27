@@ -7,21 +7,21 @@
 
 #### ROTAS
 ###### Criar novos clientes
-### /client
+### /client (post)
 #### KEYS:
 #### -- name
 #### -- cpf
 #### -- password
 
 ###### Realizar deposito em um CPF
-### /deposit
+### /deposit (put)
 KEYS:
 #### -- cpf
 #### -- password
 #### -- value
 
 ###### Realizar transferencia da carteira principal de um CPF para a carteira principal de outro cpf
-### /transaction
+### /transaction (put)
 KEYS:
 #### -- cpf
 #### -- password
