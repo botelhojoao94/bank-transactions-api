@@ -6,20 +6,20 @@
 #### ROTAS
 ### /client
 KEYS:
-###       name
-###       cpf
-###       password
+### -- name
+### -- cpf
+### -- password
 
 ### /deposit
 KEYS:
-###       cpf
-###       password
-###       value
+### -- cpf
+### -- password
+### -- value
 
 ### /transaction
 KEYS:
-###        cpf
-###        password
-###        receiver_cpf
-###        value
+### -- cpf
+### -- password
+### -- receiver_cpf
+### -- value
 
