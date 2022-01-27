@@ -4,22 +4,22 @@
 ### https://bank-transactions-api.herokuapp.com
 
 #### ROTAS
-### /client
 ###### Criar novos clientes
+### /client
 KEYS:
 ### -- name
 ### -- cpf
 ### -- password
 
-### /deposit
 ###### Realizar deposito em um CPF
+### /deposit
 KEYS:
 ### -- cpf
 ### -- password
 ### -- value
 
-### /transaction
 ###### Realizar transferencia da carteira principal de um CPF para a carteira principal de outro cpf
+### /transaction
 KEYS:
 ### -- cpf
 ### -- password
