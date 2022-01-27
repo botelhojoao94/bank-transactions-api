@@ -3,6 +3,8 @@
 #### URL
 ### https://bank-transactions-api.herokuapp.com
 
+#### OBS.: Todas as chaves devem ser passadas no body como urlencoded
+
 #### ROTAS
 ###### Criar novos clientes
 ### /client
