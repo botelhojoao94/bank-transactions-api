@@ -12,12 +12,14 @@ KEYS:
 ### -- password
 
 ### /deposit
+###### Realizar deposito em um CPF
 KEYS:
 ### -- cpf
 ### -- password
 ### -- value
 
 ### /transaction
+###### Realizar transferencia da carteira principal de um CPF para a carteira principal de outro cpf
 KEYS:
 ### -- cpf
 ### -- password
